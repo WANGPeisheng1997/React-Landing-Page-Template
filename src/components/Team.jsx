@@ -5,10 +5,9 @@ export const Team = (props) => {
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
+          <h2>团队介绍</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            专业的技术团队和音乐教育专家，致力于为用户提供最优质的合唱学习体验
           </p>
         </div>
         <div id="row">

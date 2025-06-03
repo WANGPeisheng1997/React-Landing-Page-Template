@@ -1,184 +1,166 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "芥末唱",
+    "paragraph": "乐律独家合唱教学软件，让天下没有难搞的合唱团！基于精准的音频分析技术为合唱团员提供专业的训练体验。"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "上海律奕技术有限公司（\"律奕技术\"）由中国首个合唱全产业链服务平台「乐律文化」孵化，成立于2020年，公司总部位于上海。\n\n律奕技术和乐律文化整合了包括行业专家、核心团队成员和具备多个行业资源的股东方，致力于通过科技变革当前合唱教学、排练实践；通过引入线上互联网技术和人工智能算法，为业余合唱团体的排练教学质量和效率带来质的提升。\n\n芥末唱是乐律独家的AI合唱教学软件，基于精准的音频分析技术为合唱团员提供专业的训练体验。目前已接入市面上最火爆的春天合唱团乐理与视唱教材——童声合唱团不可或缺的教学利器！依靠卓越的AI技术给出精确的技术得分，帮助团员更快、更好地提升音准和节奏能力！",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "精确的音准评估",
+      "智能节奏训练",
+      "多声部合唱练习",
+      "实时可视化反馈"
     ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "Why2": ["专业乐谱解析", "数据驱动进步", "关卡式学习体系", "个性化训练计划"]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "登录页",
+      "largeImage": "img/portfolio/login.png",
+      "smallImage": "img/portfolio/login.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "主页",
+      "largeImage": "img/portfolio/homepage.png",
+      "smallImage": "img/portfolio/homepage.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "合唱团管理",
+      "largeImage": "img/portfolio/choir.png",
+      "smallImage": "img/portfolio/choir.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "歌曲选择",
+      "largeImage": "img/portfolio/song.png",
+      "smallImage": "img/portfolio/song.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "歌曲学习模式",
+      "largeImage": "img/portfolio/learning.png",
+      "smallImage": "img/portfolio/learning.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "专项练习模式",
+      "largeImage": "img/portfolio/practice.png",
+      "smallImage": "img/portfolio/practice.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "微分音听辨练习",
+      "largeImage": "img/portfolio/intunes.png",
+      "smallImage": "img/portfolio/intunes.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "模唱练习",
+      "largeImage": "img/portfolio/pitchsinging.png",
+      "smallImage": "img/portfolio/pitchsinging.png"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-music",
+      "name": "多维度音准评估",
+      "text": "利用先进的YIN算法和音高检测技术，能精确捕捉演唱者的音高偏差至音分级别，并区分音符的起音、持续音和收音阶段进行全方位评分。"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-clock-o",
+      "name": "智能节奏训练",
+      "text": "通过精确的节奏模式识别和实时反馈系统，帮助团员掌握复杂的节拍，形成准确的节奏感和合唱整体性。"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "多声部合唱训练",
+      "text": "支持多声部合唱练习，可以单独练习自己的声部，也可以配合示范音频进行合唱训练，培养和声感知能力。"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-line-chart",
+      "name": "实时可视化反馈",
+      "text": "将演唱表现转化为直观的图表和评分，包括音准百分比、半音率偏差和音符质量评价，帮助团员直观了解自己的进步。"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-file-text-o",
+      "name": "专业乐谱解析",
+      "text": "通过MusicXML技术精确解析乐谱，支持呼吸标记、演唱提示和引导信息的显示，帮助团员更好地理解和执行音乐作品。"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-trophy",
+      "name": "关卡式学习体系",
+      "text": "采用游戏化设计，通过通关解锁的方式激励团员持续练习，系统根据演唱表现计算银星和金星评级，鼓励精益求精。"
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/Property 1=1.png",
+      "text": "芥末唱让我们的合唱团训练效率提升了很多，孩子们的音准和节奏感都有明显改善！",
+      "name": "薛老师 - 昆山一小合唱团指挥"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/Property 1=2.png",
+      "text": "AI评分系统非常精准，能够指出我在演唱中的细微问题，帮助我不断进步。",
+      "name": "吕同学 - 合唱团员"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/Property 1=3.png",
+      "text": "可视化反馈功能太棒了，让我能清楚看到自己的演唱表现，练习更有针对性。",
+      "name": "张同学 - 合唱团员"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/Property 1=4.png",
+      "text": "关卡式学习让练习变得有趣，孩子们都很喜欢这种游戏化的学习方式。",
+      "name": "施老师 - 音乐教师"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/Property 1=5.png",
+      "text": "多声部训练功能帮助我更好地理解和声，现在能更好地融入合唱团。",
+      "name": "陈同学 - 合唱团员"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/Property 1=6.png",
+      "text": "芥末唱的智能节奏训练让我的节拍感有了质的飞跃，现在演唱更有自信了。",
+      "name": "赵同学 - 合唱团员"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQwIiBoZWlnaHQ9IjI0MCIgdmlld0JveD0iMCAwIDI0MCAyNDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNDAiIGhlaWdodD0iMjQwIiBmaWxsPSIjRjVGNUY1Ii8+CjxzdmcgeD0iNzIiIHk9IjcyIiB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDEyQzE0LjIwOTEgMTIgMTYgMTAuMjA5MSAxNiA4QzE2IDUuNzkwOSAxNC4yMDkxIDQgMTIgNEM5Ljc5MDkgNCA4IDUuNzkwOSA4IDhDOCAxMC4yMDkxIDkuNzkwOSAxMiAxMiAxMloiIGZpbGw9IiNCQkJCQkIiLz4KPHBhdGggZD0iTTEyIDE0QzkuMzMgMTQgNCAxNS4zNCA0IDIwVjIySjIwVjIwQzIwIDE1LjM0IDE0LjY3IDE0IDEyIDE0WiIgZmlsbD0iI0JCQkJCQiIvPgo8L3N2Zz4KPHN2Zz4=",
+      "name": "技术总监",
+      "job": "AI音频分析专家"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQwIiBoZWlnaHQ9IjI0MCIgdmlld0JveD0iMCAwIDI0MCAyNDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNDAiIGhlaWdodD0iMjQwIiBmaWxsPSIjRjVGNUY1Ii8+CjxzdmcgeD0iNzIiIHk9IjcyIiB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDEyQzE0LjIwOTEgMTIgMTYgMTAuMjA5MSAxNiA4QzE2IDUuNzkwOSAxNC4yMDkxIDQgMTIgNEM5Ljc5MDkgNCA4IDUuNzkwOSA4IDhDOCAxMC4yMDkxIDkuNzkwOSAxMiAxMiAxMloiIGZpbGw9IiNCQkJCQkIiLz4KPHBhdGggZD0iTTEyIDE0QzkuMzMgMTQgNCAxNS4zNCA0IDIwVjIySjIwVjIwQzIwIDE1LjM0IDE0LjY3IDE0IDEyIDE0WiIgZmlsbD0iI0JCQkJCQiIvPgo8L3N2Zz4KPHN2Zz4=",
+      "name": "产品经理",
+      "job": "音乐教育专家"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQwIiBoZWlnaHQ9IjI0MCIgdmlld0JveD0iMCAwIDI0MCAyNDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNDAiIGhlaWdodD0iMjQwIiBmaWxsPSIjRjVGNUY1Ii8+CjxzdmcgeD0iNzIiIHk9IjcyIiB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDEyQzE0LjIwOTEgMTIgMTYgMTAuMjA5MSAxNiA4QzE2IDUuNzkwOSAxNC4yMDkxIDQgMTIgNEM5Ljc5MDkgNCA4IDUuNzkwOSA4IDhDOCAxMC4yMDkxIDkuNzkwOSAxMiAxMiAxMloiIGZpbGw9IiNCQkJCQkIiLz4KPHBhdGggZD0iTTEyIDE0QzkuMzMgMTQgNCAxNS4zNCA0IDIwVjIySjIwVjIwQzIwIDE1LjM0IDE0LjY3IDE0IDEyIDE0WiIgZmlsbD0iI0JCQkJCQiIvPgo8L3N2Zz4KPHN2Zz4=",
+      "name": "设计总监",
+      "job": "用户体验设计师"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQwIiBoZWlnaHQ9IjI0MCIgdmlld0JveD0iMCAwIDI0MCAyNDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNDAiIGhlaWdodD0iMjQwIiBmaWxsPSIjRjVGNUY1Ii8+CjxzdmcgeD0iNzIiIHk9IjcyIiB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDEyQzE0LjIwOTEgMTIgMTYgMTAuMjA5MSAxNiA4QzE2IDUuNzkwOSAxNC4yMDkxIDQgMTIgNEM5Ljc5MDkgNCA4IDUuNzkwOSA4IDhDOCAxMC4yMDkxIDkuNzkwOSAxMiAxMiAxMloiIGZpbGw9IiNCQkJCQkIiLz4KPHBhdGggZD0iTTEyIDE0QzkuMzMgMTQgNCAxNS4zNCA0IDIwVjIySjIwVjIwQzIwIDE1LjM0IDE0LjY3IDE0IDEyIDE0WiIgZmlsbD0iI0JCQkJCQiIvPgo8L3N2Zz4KPHN2Zz4=",
+      "name": "教研总监",
+      "job": "合唱教学专家"
     }
   ],
-  "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
-  },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-microphone",
+      "title": "AI智能评分",
+      "text": "依靠卓越的AI技术给出精确的技术得分，帮助团员更快、更好地提升音准和节奏能力。"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-graduation-cap",
+      "title": "合唱特训模式",
+      "text": "提供练习和测试两种模式，针对不同长度和难度的音符提供个性化的训练计划，系统自动适应学员水平动态调整难度。"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-bar-chart",
+      "title": "数据驱动进步",
+      "text": "记录每次练习的表现并生成详细的诊断报告，针对声音控制、音准稳定性和节奏把握等方面给出专业建议。"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-heart",
+      "title": "春天合唱团教材",
+      "text": "目前已接入市面上最火爆的春天合唱团乐理与视唱教材——童声合唱团不可或缺的教学利器！"
     }
   ]
 }

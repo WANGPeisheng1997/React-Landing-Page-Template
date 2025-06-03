@@ -18,7 +18,8 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            <img src="img/wesing-icon.png" alt="芥末唱" style={{height: '30px', width: 'auto', marginRight: '10px', display: 'inline-block', verticalAlign: 'middle'}} />
+            芥末唱
           </a>{" "}
         </div>
 
@@ -29,37 +30,32 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                功能特色
               </a>
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                About
+                关于我们
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                核心服务
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                产品展示
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                用户评价
               </a>
             </li>
             <li>
               <a href="#team" className="page-scroll">
-                Team
-              </a>
-            </li>
-            <li>
-              <a href="#contact" className="page-scroll">
-                Contact
+                团队介绍
               </a>
             </li>
           </ul>

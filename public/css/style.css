@@ -208,19 +208,18 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #e5e5e5;
+  background-color: #F5FFC7;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: transparent;
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: #fff;
+  color: #333;
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
@@ -232,7 +231,7 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
-  color: #fff;
+  color: #333;
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
@@ -240,13 +239,14 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
-  padding-bottom: 200px;
+  padding-top: 150px;
+  padding-bottom: 100px;
   text-align: center;
 }
 /* Features Section */
 #features {
   background: #f6f6f6;
+  padding: 50px 0;
 }
 #features i.fa {
   font-size: 38px;
@@ -354,10 +354,65 @@ header .intro-text {
 #portfolio {
   padding: 100px 0;
 }
+
+.gallery-container {
+  width: 100%;
+}
+
+/* 竖屏图片行 - 一排6个 */
+.portrait-row {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+  gap: 2px;
+}
+
+.portrait-item {
+  width: 16.666%; /* 100% / 6 = 16.666% */
+  aspect-ratio: 1179 / 2556; /* 使用实际图片比例 */
+}
+
+.portrait-item .portfolio-item {
+  height: 100%;
+  width: 100%;
+}
+
+.portrait-item .portfolio-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* 改回contain以显示完整图片 */
+  display: block;
+}
+
+/* 横屏图片行 - 一排2个 */
+.landscape-row {
+  display: flex;
+  width: 100%;
+  gap: 2px;
+}
+
+.landscape-item {
+  width: 50%; /* 100% / 2 = 50% */
+  aspect-ratio: 2556 / 1179; /* 使用实际图片比例 */
+}
+
+.landscape-item .portfolio-item {
+  height: 100%;
+  width: 100%;
+}
+
+.landscape-item .portfolio-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* 改回contain以显示完整图片 */
+  display: block;
+}
+
 .portfolio-item {
-  margin: 1px -15px 0 -14px;
+  margin: 0;
   padding: 0;
 }
+
 .portfolio-item .hover-bg {
   overflow: hidden;
   position: relative;
@@ -602,5 +657,12 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+  .portrait-item {
+    max-height: 300px;
+  }
+  
+  .landscape-item {
+    max-height: 200px;
   }
 }
